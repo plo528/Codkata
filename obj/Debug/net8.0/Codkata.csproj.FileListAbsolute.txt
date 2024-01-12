@@ -1,0 +1,15 @@
+D:\coding\Codkata\Codkata\bin\Debug\net8.0\Codkata.exe
+D:\coding\Codkata\Codkata\bin\Debug\net8.0\Codkata.deps.json
+D:\coding\Codkata\Codkata\bin\Debug\net8.0\Codkata.runtimeconfig.json
+D:\coding\Codkata\Codkata\bin\Debug\net8.0\Codkata.dll
+D:\coding\Codkata\Codkata\bin\Debug\net8.0\Codkata.pdb
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.AssemblyInfoInputs.cache
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.AssemblyInfo.cs
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.csproj.CoreCompileInputs.cache
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.sourcelink.json
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.dll
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\refint\Codkata.dll
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.pdb
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\Codkata.genruntimeconfig.cache
+D:\coding\Codkata\Codkata\obj\Debug\net8.0\ref\Codkata.dll
